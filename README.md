@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,6,2,2,5,0&height=250&section=header&text=Recording%20Day&fontSize=70&fontAlign=67)
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,6,4,2,5,0&height=250&section=header&text=Recording%20Day&fontSize=70&fontAlign=67)
 <div align="center">
 
   <h3>🐰 Programing 🐰</h3>
