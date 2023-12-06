@@ -17,11 +17,4 @@
 
 <hr>
 
-<br><br>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LeeSeolHee&show_icons=true&theme=buefy)
-</div>
 
-
-
-<br><br>
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=LeeSeolHee&theme=dracula)](https://github.com/LeeSeolHee/github-readme-activity-graph)
